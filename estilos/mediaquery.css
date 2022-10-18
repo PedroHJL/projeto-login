@@ -10,6 +10,7 @@
 
     section#login{
         width: 80vw;
+        height: 290px;
     }
 
     section#login > div#imagem{
@@ -26,6 +27,12 @@
     }
 }
 
+
+
+
+
+
+
 @media screen and (min-width:992px) {
 
     body{
@@ -34,6 +41,7 @@
 
     section#login{
         width: 940px;
+        height: 350px;
     }
 
     section#login > div#imagem{
